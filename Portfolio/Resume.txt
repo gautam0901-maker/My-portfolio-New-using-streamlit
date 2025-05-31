@@ -1,0 +1,149 @@
+Motivated and diligent individual with the work & internship experience in software and
+web Development, Automation and good exposure to machine learning . Good knowledge in
+C, C++, Python and SQL. Secured runner up position in a national level hackathon.
+Focussed on seeking a challenging position where I can learn new skills, expand my
+knowledge, and leverage my learnings in a reputed organization.
+
+●
+●
+●
+
+Worked as a Data engineer in United techno
+Worked as a developer intern and Data analyst with ZF Technologies, Hyderabad
+Worked as Developer trainee at Kloudlearn Technologies during my final year
+graduation
+
+●
+
+Worked as a software trainee in Wipro
+
+Developer and analyst intern( ZF Technologies)
+●
+●
+●
+●
+
+Creating power BI KPI Dashboard and analyzing the performance / savings
+each year.
+Created a newsletter software for Zf in python that displays news related to the
+company
+Created a web page for ZF which is being used to sell and buy products
+internally
+Working on a proof of concept with ZF to enable Vehicle 2 Vehicle
+communication using FM Modulation.
+
+Application Developer Trainee (Kloudlearn Technologies)
+● Developed few modules for their learning platform application using firebase
+and flutter app development platforms
+Wipro Internship
+●
+●
+
+Completed trainings on HTML / CSS and Java script
+Created a banking web page using HTML/ CSS and Java script
+
+Cognizant Training
+●
+●
+
+Completed Salesforce training for both developer and administrator roles
+Completed training on Apex programming language
+
+Page 1 of 1
+
+●
+●
+●
+●
+●
+●
+●
+
+Programming languages exposure: Python, C++, Java, dart(flutter), VBA, DAX,
+Lua, HTML, CSS, JS, Salesforce developer, Salesforce administrator, SQL, R , Latex
+Automation : Power automate , Automation anywhere
+Data Analytics: Power Bi, Tableau
+Data Cleaning: Snow flakes, Snowpark
+Cloud service providers: AWS, Firebase
+Microsoft office: Excel, PowerPoint, One note, Word, Power apps
+project management Tools : GitHub, JIRA
+
+ZF newsletter software:
+●
+
+●
+
+Developed a software that displays the news regarding the company’s
+upcoming events, information about the new joiners, Zf patents and
+includes a calendar tab where the employee can add new tasks
+Technologies & Programming Language used :
+○ TKinter library in python , News API as a backend
+
+ZF Our-space
+●
+●
+
+Developed a web page that is being used currently by us to buy and sell
+products/properties within the ZF. This is an internal webpage for ZF employees
+Technologies & Programming Language used :
+○ HTML, CSS and JS as front end and SQL as
+Backend
+
+Vehicle to Vehicle communication
+●
+●
+●
+
+This is a proof of concept that is currently in progress to establish the
+communication between cars using radio frequency.
+Created a Circuit design and presented the concept to my mentor and the team.
+Discussion in progress to implement the same.
+
+Page 2 of 2
+
+Power BI Dashboard
+●
+
+Developed a power BI Dashboard for Zf to analyze and compare the previous
+year data and the current year data
+
+●
+
+Technologies & Programming Language used :
+○ Created a KPI Dashboard using Itonics API and DAX code
+
+College mobile application
+●
+
+●
+
+Developed an application to display the information about my college’s latest events,
+links to online admission, Information about last year toppers and that also includes
+a forum between teachers and parents.
+Technologies & Programming Language used :
+○ flutter as a frontend and firebase as backend
+
+Weather App
+●
+●
+●
+Post graduation : 
+Currently doing masters in Business intelligence and data analytics in hochschule emden leer emden germany 
+
+Developed a mobile application using flutter which uses weather API to fetch
+the data
+Developed the app to be compatible for both android and IOS
+This app shows the weather of current location by fetching the coordinates using
+our mobile GPS
+
+Undergraduation:
+Bachelors of technology in Information Technology (2018-2022)
+Prince shri Venkateshwara Padmavathi engineering college,
+chennai
+Higher & Senior secondary school :
+Modern senior secondary school,
+chennai
+
+Page 3 of 3
+
+
