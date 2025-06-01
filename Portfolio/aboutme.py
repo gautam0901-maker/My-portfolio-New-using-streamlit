@@ -11,6 +11,25 @@ def render_about_section():
             0% { opacity: 0; transform: translateY(-10px); }
             100% { opacity: 1; transform: translateY(0); }
         }
+
+        .journey-panel {
+            background-color: #f0f2f6;
+            color: #111111;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+            animation: fadeInPanel 1.5s ease-in-out;
+        }
+        @media (prefers-color-scheme: dark) {
+            .journey-panel {
+                background-color: #1e1e1e;
+                color: #f0f0f0;
+            }
+        }
+        @keyframes fadeInPanel {
+            from { opacity: 0; transform: translateX(-20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
         </style>
         <h2 class="animated-header">👨‍💻 About Me</h2>
     """, unsafe_allow_html=True)
@@ -18,19 +37,6 @@ def render_about_section():
     st.info("Hi, I'm **Gautam Ramesh**, a passionate developer and data engineer focused on automation and analytics.")
 
     st.markdown("""
-        <style>
-        .journey-panel {
-            background-color: #f0f2f6;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
-            animation: fadeInPanel 1.5s ease-in-out;
-        }
-        @keyframes fadeInPanel {
-            from { opacity: 0; transform: translateX(-20px); }
-            to { opacity: 1; transform: translateX(0); }
-        }
-        </style>
         <div class="journey-panel">
         <h3>🌟 My Journey</h3>
         <ul>
