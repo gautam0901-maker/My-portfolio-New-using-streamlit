@@ -44,7 +44,7 @@ def get_gemini_response(query):
   - Completed courses in Flutter development, Python programming, and Salesforce Data Cloud.
   - Received a performance certificate from ZF Technologies for exceptional work performance during his internship.
 
-  For more on Gautam’s projects and contributions, please visit his GitHub page: [https://github.com/gautamramesh](https://github.com/gautamramesh)
+  For more on Gautam’s projects and contributions, please visit his GitHub page: [https://github.com/gautam0901-maker](https://github.com/gautam0901-maker)
 
   Personal Statement:
   Gautam is a curious, self-driven learner with a passion for solving problems using data and technology. He believes in continuous improvement, learning from every experience, and making meaningful contributions wherever he works.
